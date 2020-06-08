@@ -1,5 +1,5 @@
 ## School-Management-System
-### My Python 2.7 GUI based Project
+#### My Python 2.7 GUI Project
 ##### This is basically a Python GUI program which is capable of storing, editing school student database.
 
 ##### This project capable of doing the following tasks simultaneously,
