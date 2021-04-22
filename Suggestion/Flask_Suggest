@@ -1,0 +1,10 @@
+Hi,
+This is Ishaak.
+
+You may use the following for improvements:
+
+place() method:It organizes the widgets by placing them on specific positions directed by the programmer.
+Canvas: It is used to draw pictures and other complex layout like graphics, text and widgets. This will help in improving layout.
+Menu: It is used to create all kinds of menus used by the application. You can reduce the complex layout by using menus in the project
+
+For the a web-based project try using flask as it will help and greatly simplify the thing.
